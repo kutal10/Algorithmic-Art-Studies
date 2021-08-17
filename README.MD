@@ -1,27 +1,28 @@
 <h1 align="center">
-  Markdownify
+  Algorithmic Art Studies
 </h1>
 
-<h4 align="center">An exploration of algorithmic artwork <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">An exploration of algorithmic artwork</h4>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#key-features">Folder Contents</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
+  <a href="#download">Credits</a> •
+  <a href="#credits">Further reading on algorithmic art</a> •
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://cdn.shopify.com/s/files/1/1622/4127/files/081220_soundwave_2_1024x1024.jpg?v=1597864810)
 
 ## Folder Contents
 
 1. **Circles**: Studies of circles and how different structures can be generated
 2. **Flow Fields**: Studies of an algorithmic art staple, grids with angular properties
 3. **Replicating Brushstrokes**: An attempt to generate how a natural brush pattern works
-4. **Replicating collors.io**: Recreating a micro-version of one of the most popular color scheme generators
+4. **Replicating Coolors.io**: Recreating a micro-version of one of the most popular color scheme generators
 5. **Replicating Jackson Pollock**: A study of how algorithmically generate Jackson Pollock's splatter paintings
 6. **Shader Study**: Using GLSL shaders to output algorithmic art with a unique texture
+7. **Clojure Test**: Using the Quil Clojure library to create generative art
+8. **Testing Example**: Using Jest to build a unit tested algorithmic art piece
 
 ## How To Use
 
@@ -43,30 +44,20 @@ $ npm start
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-## Download
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
-
 ## Credits
 
-This software uses the following open source packages:
+The files in this study cover the following open source packages:
 
-- [Electron](http://electron.atom.io/)
+- [P5js](https://p5js.org/)
 - [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+- [Chroma JS](https://gka.github.io/chroma.js/)
+- [Quicksettings](https://github.com/bit101/quicksettings)
+- [Jest](https://jestjs.io/)
+- [Quil](https://github.com/quil/quil)
 
 ## Further reading on algorithmic art
 
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
-
-## License
-
-MIT
-
----
-
-> LinkedIn [Rahul-Pai](https://www.linkedin.com/in/rahul-pai-06302111a/) &nbsp;&middot;&nbsp;
+[Generative Art Conference](http://www.generativeart.com/) - Generative art academic conferences  
+[Applying Visual Design Principles to Generative Art](https://www.dirtalleydesign.com/blogs/news/visual-design-and-generative-art) - Visual art techniques for generative art  
+[Tyler Hobbs](https://tylerxhobbs.com/essays) - Some of the best essays to generative art on the internet by a generative art pioneer  
+[A guide to Quil](https://landofquil.clojureverse.org/) - An introduction to using functional programming for generative art  
