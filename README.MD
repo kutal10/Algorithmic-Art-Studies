@@ -11,8 +11,10 @@
   <a href="#credits">Further reading on algorithmic art</a> •
 </p>
 
-![screenshot](https://cdn.shopify.com/s/files/1/1622/4127/files/081220_soundwave_2_1024x1024.jpg?v=1597864810)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kutal10/Algorithmic-Art-Studies/main/Images/Heading%20Image.png" width =800/>
+</p>  
+  
 ## Folder Contents
 
 1. **Circles**: Studies of circles and how different structures can be generated
