@@ -58,6 +58,6 @@ The files in this study cover the following open source packages:
 ## Further reading on algorithmic art
 
 [Generative Art Conference](http://www.generativeart.com/) - Generative art academic conferences  
-[Applying Visual Design Principles to Generative Art](https://www.dirtalleydesign.com/blogs/news/visual-design-and-generative-art) - Visual art techniques for generative art
-[Tyler Hobbs](https://tylerxhobbs.com/essays) - Some of the best essays to generative art on the internet by a generative art pioneer
+[Applying Visual Design Principles to Generative Art](https://www.dirtalleydesign.com/blogs/news/visual-design-and-generative-art) - Visual art techniques for generative art  
+[Tyler Hobbs](https://tylerxhobbs.com/essays) - Some of the best essays to generative art on the internet by a generative art pioneer  
 [A guide to Quil](https://landofquil.clojureverse.org/) - An introduction to using functional programming for generative art  
