@@ -2,17 +2,16 @@
   Algorithmic Art Studies
 </h1>
 
-<h4 align="center">An exploration of algorithmic artwork <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">An exploration of algorithmic artwork</h4>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#key-features">Folder Contents</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
+  <a href="#download">Credits</a> •
+  <a href="#credits">Further reading on algorithmic art</a> •
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://cdn.shopify.com/s/files/1/1622/4127/files/081220_soundwave_2_1024x1024.jpg?v=1597864810)
 
 ## Folder Contents
 
@@ -59,12 +58,6 @@ This software uses the following open source packages:
 
 ## Further reading on algorithmic art
 
-[Generative Art Conference](http://www.generativeart.com/) - Generative art academic conferences
+[Generative Art Conference](http://www.generativeart.com/) - Generative art academic conferences  
+[Applying Visual Design Principles to Generative Art](https://www.dirtalleydesign.com/blogs/news/visual-design-and-generative-art) - Visual art techniques for generative art
 
-## License
-
-MIT
-
----
-
-> LinkedIn [Rahul-Pai](https://www.linkedin.com/in/rahul-pai-06302111a/) &nbsp;&middot;&nbsp;
