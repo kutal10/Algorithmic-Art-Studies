@@ -1,0 +1,72 @@
+<h1 align="center">
+  Markdownify
+</h1>
+
+<h4 align="center">An exploration of algorithmic artwork <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#license">License</a>
+</p>
+
+![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+
+## Folder Contents
+
+1. **Circles**: Studies of circles and how different structures can be generated
+2. **Flow Fields**: Studies of an algorithmic art staple, grids with angular properties
+3. **Replicating Brushstrokes**: An attempt to generate how a natural brush pattern works
+4. **Replicating collors.io**: Recreating a micro-version of one of the most popular color scheme generators
+5. **Replicating Jackson Pollock**: A study of how algorithmically generate Jackson Pollock's splatter paintings
+6. **Shader Study**: Using GLSL shaders to output algorithmic art with a unique texture
+
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/amitmerchant1990/electron-markdownify
+
+# Go into the repository
+$ cd electron-markdownify
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm start
+```
+
+Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+
+## Download
+
+You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+
+## Credits
+
+This software uses the following open source packages:
+
+- [Electron](http://electron.atom.io/)
+- [Node.js](https://nodejs.org/)
+- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [showdown](http://showdownjs.github.io/showdown/)
+- [CodeMirror](http://codemirror.net/)
+- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
+- [highlight.js](https://highlightjs.org/)
+
+## Further reading on algorithmic art
+
+[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
+
+## License
+
+MIT
+
+---
+
+> LinkedIn [Rahul-Pai](https://www.linkedin.com/in/rahul-pai-06302111a/) &nbsp;&middot;&nbsp;
