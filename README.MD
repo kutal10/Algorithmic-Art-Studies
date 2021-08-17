@@ -1,5 +1,5 @@
 <h1 align="center">
-  Markdownify
+  Algorithmic Art Studies
 </h1>
 
 <h4 align="center">An exploration of algorithmic artwork <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
@@ -19,9 +19,11 @@
 1. **Circles**: Studies of circles and how different structures can be generated
 2. **Flow Fields**: Studies of an algorithmic art staple, grids with angular properties
 3. **Replicating Brushstrokes**: An attempt to generate how a natural brush pattern works
-4. **Replicating collors.io**: Recreating a micro-version of one of the most popular color scheme generators
+4. **Replicating Coolors.io**: Recreating a micro-version of one of the most popular color scheme generators
 5. **Replicating Jackson Pollock**: A study of how algorithmically generate Jackson Pollock's splatter paintings
 6. **Shader Study**: Using GLSL shaders to output algorithmic art with a unique texture
+7. **Clojure Test**: Using the Quil Clojure library to create generative art
+8. **Testing Example**: Using Jest to build a unit tested algorithmic art piece
 
 ## How To Use
 
@@ -43,10 +45,6 @@ $ npm start
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-## Download
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
-
 ## Credits
 
 This software uses the following open source packages:
@@ -61,7 +59,7 @@ This software uses the following open source packages:
 
 ## Further reading on algorithmic art
 
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
+[Generative Art Conference](http://www.generativeart.com/) - Generative art academic conferences
 
 ## License
 
