@@ -46,18 +46,18 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 ## Credits
 
-This software uses the following open source packages:
+The files in this study cover the following open source packages:
 
-- [Electron](http://electron.atom.io/)
+- [P5js](https://p5js.org/)
 - [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+- [Chroma JS](https://gka.github.io/chroma.js/)
+- [Quicksettings](https://github.com/bit101/quicksettings)
+- [Jest](https://jestjs.io/)
+- [Quil](https://github.com/quil/quil)
 
 ## Further reading on algorithmic art
 
 [Generative Art Conference](http://www.generativeart.com/) - Generative art academic conferences  
 [Applying Visual Design Principles to Generative Art](https://www.dirtalleydesign.com/blogs/news/visual-design-and-generative-art) - Visual art techniques for generative art
-
+[Tyler Hobbs](https://tylerxhobbs.com/essays) - Some of the best essays to generative art on the internet by a generative art pioneer
+[A guide to Quil](https://landofquil.clojureverse.org/) - An introduction to using functional programming for generative art  
