@@ -16,13 +16,45 @@
 ## Folder Contents
 
 1. **Circles**: Studies of circles and how different structures can be generated
+
+![screenshot](https://github.com/kutal10/Algorithmic-Art-Studies/blob/main/Images/1.%20Circles.jpg?raw=true)
+  
+  
 2. **Flow Fields**: Studies of an algorithmic art staple, grids with angular properties
+
+![screenshot](https://github.com/kutal10/Algorithmic-Art-Studies/blob/main/Images/2.%20Flow%20Fields.jpg?raw=true)
+  
+  
 3. **Replicating Brushstrokes**: An attempt to generate how a natural brush pattern works
+
+![screenshot](https://github.com/kutal10/Algorithmic-Art-Studies/blob/main/Images/3.%20Replicating%20Brushstrokes.jpg?raw=true)
+  
+  
 4. **Replicating Coolors.io**: Recreating a micro-version of one of the most popular color scheme generators
+
+![screenshot](https://github.com/kutal10/Algorithmic-Art-Studies/blob/main/Images/4.%20Replicating%20Coolors.io.jpg?raw=true)
+  
+  
 5. **Replicating Jackson Pollock**: A study of how algorithmically generate Jackson Pollock's splatter paintings
+
+![screenshot](https://github.com/kutal10/Algorithmic-Art-Studies/blob/main/Images/5.%20Replicating%20Jackson%20Pollock.jpg?raw=true)
+  
+  
 6. **Shader Study**: Using GLSL shaders to output algorithmic art with a unique texture
+
+![screenshot](https://github.com/kutal10/Algorithmic-Art-Studies/blob/main/Images/6.%20Shader%20Study.jpg?raw=true)
+  
+  
 7. **Clojure Test**: Using the Quil Clojure library to create generative art
+
+![screenshot](https://github.com/kutal10/Algorithmic-Art-Studies/blob/main/Images/7.%20Clojure.jpg?raw=true)
+  
+  
 8. **Testing Example**: Using Jest to build a unit tested algorithmic art piece
+
+![screenshot](https://github.com/kutal10/Algorithmic-Art-Studies/blob/main/Images/8.%20Testing.jpg?raw=true)
+  
+  
 
 ## How To Use
 
