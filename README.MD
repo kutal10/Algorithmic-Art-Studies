@@ -91,8 +91,22 @@ $ cd "Testing Example"
 # Install Dependencies
 $ npm install
 
-# To run the tests, make sure that the 'test' script in your package.json file is using "jest"
+# To run the tests, make sure that the 'test' script in your package.json file is using "jest", then run test command
 $ npm test
+```
+  
+>###### For **Clojure Test**  
+  
+To clone and run this application, you'll need [Leiningen](https://leiningen.org/) installed
+  
+```bash
+# Clone this repository
+$ git clone https://github.com/kutal10/Algorithmic-Art-Studies
+
+# Go into the main repository
+$ cd "Clojure Test\quil1"
+
+# Run `lein figwheel` in your terminal. Wait for a while until you see `Successfully compiled "resources/public/js/main.js"`. Open [localhost:3449](http://localhost:3449) in your browser.
 ```
 
 ## Credits
