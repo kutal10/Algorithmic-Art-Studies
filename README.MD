@@ -62,6 +62,9 @@
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
+
+>###### For all artwork except **Clojure Test** and **Testing Example**  
+
 ```bash
 # Clone this repository
 $ git clone https://github.com/kutal10/Algorithmic-Art-Studies
@@ -70,18 +73,27 @@ $ git clone https://github.com/kutal10/Algorithmic-Art-Studies
 $ cd "Replicating Coolors.io"
 
 # Open the index.html file in your browser by double clicking on it in your file manager 
+```
 
-# You can also use http://localhost:{your-port-num}/empty-example if you are using a local server
-# An easy way to do this in vscode is to use vscode live server
+*Notes*: 
 
-# If using the testing example, install dependencies
+1. If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+
+2. You can also use http://localhost:{your-port-num}/empty-example if you are using a local server. An easy way to do this in vscode is to use [Vscode Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+
+>###### For **Testing Example**  
+
+```bash
+# Go into the testing repository
+$ cd "Testing Example"
+
+# Install Dependencies
 $ npm install
 
 # To run the tests, make sure that the 'test' script in your package.json file is using "jest"
 $ npm test
 ```
-
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 ## Credits
 
