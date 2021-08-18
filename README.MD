@@ -17,17 +17,17 @@
   
 ## Folder Contents
 
-1. **Circles**: Studies of circles and how different structures can be generated
+1. **Circles**: Studies of how different structures can be generated using only circles
 
 ![screenshot](https://github.com/kutal10/Algorithmic-Art-Studies/blob/main/Images/1.%20Circles.jpg?raw=true)
   
   
-2. **Flow Fields**: Studies of an algorithmic art staple, grids with angular properties
+2. **Flow Fields**: Studies of an algorithmic art staple; essentially grids with angular properties
 
 ![screenshot](https://github.com/kutal10/Algorithmic-Art-Studies/blob/main/Images/2.%20Flow%20Fields.jpg?raw=true)
   
   
-3. **Replicating Brushstrokes**: An attempt to generate how a natural brush pattern works
+3. **Replicating Brushstrokes**: Replicating natural brush strokes on paper
 
 ![screenshot](https://github.com/kutal10/Algorithmic-Art-Studies/blob/main/Images/3.%20Replicating%20Brushstrokes.jpg?raw=true)
   
@@ -37,17 +37,17 @@
 ![screenshot](https://github.com/kutal10/Algorithmic-Art-Studies/blob/main/Images/4.%20Replicating%20Coolors.io.jpg?raw=true)
   
   
-5. **Replicating Jackson Pollock**: A study of how algorithmically generate Jackson Pollock's splatter paintings
+5. **Replicating Jackson Pollock**: A study of how to algorithmically generate Jackson Pollock's famous splatter paintings
 
 ![screenshot](https://github.com/kutal10/Algorithmic-Art-Studies/blob/main/Images/5.%20Replicating%20Jackson%20Pollock.jpg?raw=true)
   
   
-6. **Shader Study**: Using GLSL shaders to output algorithmic art with a unique texture
+6. **Shader Study**: Using GLSL shaders to output algorithmic art with a unique overlay texture
 
 ![screenshot](https://github.com/kutal10/Algorithmic-Art-Studies/blob/main/Images/6.%20Shader%20Study.jpg?raw=true)
   
   
-7. **Clojure Test**: Using the Quil Clojure library to create generative art
+7. **Clojure Test**: Using the Quil Clojure library to create generative art in a functional programming paradigm
 
 ![screenshot](https://github.com/kutal10/Algorithmic-Art-Studies/blob/main/Images/7.%20Clojure.jpg?raw=true)
   
@@ -64,16 +64,21 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/kutal10/Algorithmic-Art-Studies
 
-# Go into the repository
-$ cd electron-markdownify
+# Go into the repository of your choice
+$ cd "Replicating Coolors.io"
 
-# Install dependencies
+# Open the index.html file in your browser by double clicking on it in your file manager 
+
+# You can also use http://localhost:{your-port-num}/empty-example if you are using a local server
+# An easy way to do this in vscode is to use vscode live server
+
+# If using the testing example, install dependencies
 $ npm install
 
-# Run the app
-$ npm start
+# To run the tests, make sure that the 'test' script in your package.json file is using "jest"
+$ npm test
 ```
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
