@@ -91,7 +91,11 @@ The files in this study cover the following open source packages:
 
 ## Further reading on algorithmic art
 
-[Generative Art Conference](http://www.generativeart.com/) - Generative art academic conferences  
+[Artnome Generative Art Guide](https://www.artnome.com/news/2018/8/8/why-love-generative-art) - A great introduction to generative art  
+[Kjetil Golid's Repository](https://github.com/kgolid) - The repository of Kjetil Golid, one of the most successful contemporary generative artists  
+[Artnome Generative Art Guide](https://www.artnome.com/news/2018/8/8/why-love-generative-art) - A great introduction to generative art  
 [Applying Visual Design Principles to Generative Art](https://www.dirtalleydesign.com/blogs/news/visual-design-and-generative-art) - Visual art techniques for generative art  
 [Tyler Hobbs](https://tylerxhobbs.com/essays) - Some of the best essays to generative art on the internet by a generative art pioneer  
 [A guide to Quil](https://landofquil.clojureverse.org/) - An introduction to using functional programming for generative art  
+[Clotmag Generative Art](https://www.clotmag.com/tag/generative-art) - Generative art news and interviews  
+[Generative Art Conference](http://www.generativeart.com/) - Generative art academic conferences  
