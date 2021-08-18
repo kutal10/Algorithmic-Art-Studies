@@ -61,8 +61,8 @@
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-  
-  
+<br>
+<br>
 >###### For all artwork except **Clojure Test** and **Testing Example**  
 
 ```bash
@@ -80,8 +80,8 @@ $ cd "Replicating Coolors.io"
 1. If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 2. You can also use http://localhost:{your-port-num}/empty-example if you are using a local server. An easy way to do this in vscode is to use [Vscode Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-  
-  
+<br>
+<br>
 >###### For **Testing Example**  
 
 ```bash
@@ -91,11 +91,12 @@ $ cd "Testing Example"
 # Install Dependencies
 $ npm install
 
-# To run the tests, make sure that the 'test' script in your package.json file is using "jest", then run test command
+# To run the tests, make sure that the 'test' script in your package.json file is using "jest"
+# Then simply run the test command
 $ npm test
 ```
-  
-  
+<br>
+<br>
 >###### For **Clojure Test**  
   
 To clone and run this application, you'll need [Leiningen](https://leiningen.org/) installed
@@ -107,8 +108,8 @@ $ git clone https://github.com/kutal10/Algorithmic-Art-Studies
 # Go into the main repository
 $ cd "Clojure Test\quil1"
 
-# Run `lein figwheel` in your terminal. Wait for a while until you see `Successfully compiled  
-"resources/public/js/main.js"`. Open [localhost:3449](http://localhost:3449) in your browser.
+# Run `lein figwheel` in your terminal. Wait for a while until you see `Successfully compiled "resources/public/js/main.js"`. 
+# Open [localhost:3449](http://localhost:3449) in your browser.
 ```
 
 ## Credits
