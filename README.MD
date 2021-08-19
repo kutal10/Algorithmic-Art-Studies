@@ -60,7 +60,7 @@
 
 ## How To Use
 
-To clone and run all these applications, you'll need [Git](https://git-scm.com), from your command line:
+To clone and run all these applications, you'll need [Git](https://git-scm.com). From your command line:
 >###### For all artwork except **Clojure Test** and **Testing Example**  
 
 ```bash
@@ -83,6 +83,9 @@ $ cd "Replicating Coolors.io"
 To clone and run the Testing Example, you'll need [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
 
 ```bash
+# Clone this repository
+$ git clone https://github.com/kutal10/Algorithmic-Art-Studies
+
 # Go into the testing repository
 $ cd "Testing Example"
 
