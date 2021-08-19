@@ -110,6 +110,7 @@ $ git clone https://github.com/kutal10/Algorithmic-Art-Studies
 $ cd "Clojure Test\quil1"
 
 # Run `lein figwheel` in your terminal. Wait for a while until you see `Successfully compiled "resources/public/js/main.js"`. 
+$ lein figwheel
 # Open [localhost:3449](http://localhost:3449) in your browser.
 ```
 
