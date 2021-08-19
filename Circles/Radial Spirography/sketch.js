@@ -1,5 +1,5 @@
 var canvasheight = 800;
-var canvaswidth = 0;
+var canvaswidth = 800;
 
 //circle resolution
 circ = 1000;
