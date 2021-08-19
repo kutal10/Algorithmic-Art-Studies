@@ -111,7 +111,7 @@ $ cd "Clojure Test\quil1"
 
 # Run `lein figwheel` in your terminal. Wait for a while until you see `Successfully compiled "resources/public/js/main.js"`. 
 $ lein figwheel
-# Open [localhost:3449](http://localhost:3449) in your browser.
+# Open http://localhost:3449 in your browser.
 ```
 
 ## Credits
