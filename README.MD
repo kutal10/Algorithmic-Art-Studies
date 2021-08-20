@@ -61,7 +61,7 @@
 ## How To Use
 
 To clone and run all these applications, you'll need [Git](https://git-scm.com). From your command line:
->###### For all artwork except **Clojure Test** and **Testing Example**  
+### For all artwork except **Clojure Test** and **Testing Example**  
 
 ```bash
 # Clone this repository
@@ -78,7 +78,7 @@ $ cd "Replicating Coolors.io"
 1. If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 2. You can also use http://localhost:{your-port-num}/empty-example if you are using a local server. An easy way to do this in vscode is to use [Vscode Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-> ###### For **Testing Example**  
+### For **Testing Example**  
 
 To clone and run the Testing Example, you'll need [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
 
@@ -98,7 +98,7 @@ $ npm test
 ```
   
   
-> ###### For **Clojure Test**  
+### For **Clojure Test**  
 
 To clone and run the Clojure Test, you'll need [Leiningen](https://leiningen.org/) installed
   
