@@ -5,10 +5,9 @@
 <h4 align="center">An exploration of algorithmic artwork</h4>
 
 <p align="center">
-  <a href="#key-features">Folder Contents</a> •
+  <a href="#folder-contents">Folder Contents</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Credits</a> •
-  <a href="#credits">Further reading on algorithmic art</a> •
+  <a href="#credits">Credits</a>
 </p>
 
 <p align="center">
